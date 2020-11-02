@@ -1,3 +1,14 @@
+# v0.3.1#
+- Override default actions path
+
+# v0.3.0#
+- Add .nvmrc with node 12.18.1
+- Upgrade to express4
+
+
+# v0.2.5#
+- [BUG] Fixes `subfolder` after adding a nested controller
+
 # v0.2.4#
 - [BUG] Support '.avi-on.com.v' urls at regex when getting versioning
 
